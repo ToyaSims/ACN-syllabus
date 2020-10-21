@@ -6,7 +6,7 @@ prerequisites:
   - topics/redux-intro
   soft: []
   tags:
-- redux-thunks
+  - redux-thunks
 title: Redux Thunks
 ---
 
