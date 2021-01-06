@@ -22,7 +22,6 @@ Ready to contribute? We'd love to have you on board. In this document we'll bree
 
 ## <a name="issues"></a> Choosing something to work on
 
-
 The first thing you should do is go to our [issues](https://github.com/Umuzi-org/ACN-syllabus/issues ) and look for something you might be interested in working on. The issues have what we call labels that help us distinguish between available and claimed issues, issues that are simple or hard and issues for hactoberfest, it is important to look at those labels before claiming and issue, labels an issue might have are:
 - status/help wanted
 - status/issue-claimed
